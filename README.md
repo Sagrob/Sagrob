@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<h1>Sup! 👋 I'm Borges!</h1>
 
-<!--
-**Sagrob/Sagrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Skills**
 
-Here are some ideas to get you started:
+![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,git&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IDEs I Work With**
+
+![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)
+
+**GitHub**: [Sagrob_](https://github.com/Sagrob) <br>
+**LinkedIn**: [Borges Diniz](https://www.linkedin.com/in/borgesdiniz/) <br>
+**Email**: bieldiniz27@gmail.com
+</div>
