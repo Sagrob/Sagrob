@@ -5,6 +5,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,git&theme=dark)
 
+![Sagrob GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagrob&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagrob&layout=compact)
+
 **IDEs I Work With**
 
 ![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)
