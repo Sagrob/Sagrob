@@ -3,7 +3,7 @@
 # Sup! 👋 I'm Borges!
 ## My Skills🎖️
 
-![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,git&theme=dark)
 
 **IDEs I Work With**
 
