@@ -3,11 +3,11 @@
 # Sup! 👋 I'm Borges!
 ## My Skills🎖️
 
-![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,js,sklearn,mysql,git,arch&theme=dark)
 
 **IDEs I Work With**
 
-![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,jupyter&theme=dark)
 
 ## Contacts📞
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagrob)
